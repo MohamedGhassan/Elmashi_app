@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "971637042017",
+    "firebase_url": "https://lmashi-default-rtdb.firebaseio.com",
+    "project_id": "lmashi",
+    "storage_bucket": "lmashi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971637042017:android:fe84768aa8b8c41679b320",
+        "android_client_info": {
+          "package_name": "com.draw.ealmashi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971637042017-d4j7kce1gn86cqj3s9jr068arv4e34ha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtlNiJsfqUEpvyCx392fUwGjGDxMIO7W8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971637042017-d4j7kce1gn86cqj3s9jr068arv4e34ha.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "971637042017-u1mu62cjf5quqqskp3n0k2q3aqc5ea47.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.draw.ealmashi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
